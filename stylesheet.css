@@ -1,0 +1,170 @@
+
+body {
+	width: 1500px;
+	margin: 0 auto;
+	background-color: #2f4f4f}
+h1 {
+	color: black;
+	font-weight: bold;
+	text-decoration: underline;
+    text-align: center; }
+.slide1 {
+	color:  lightgray;
+	margin: 0px;
+	padding: 10px;
+	text-align: left;
+	font-family: sans-serif;
+	font-size: 24px}
+.img1{
+	width: 700px;
+	height: 700px;
+	border-radius: 50%;}
+.img2{
+	width: 700px;
+	height: 700px;
+	padding: 20px;
+	border-radius: 30%;}
+.slide2{
+	color:  lightgray;
+	text-align: center;
+	font-family: verdona;
+	font-size: 24px;}
+.health{
+	color: lightgray;
+	text-align:  left;
+	font-family: sans-serif;
+	padding: 10px;
+	width: 500px;
+	font-size: 24px;
+    float:  left;}
+.social{
+	color: lightgray;
+	text-align:  left;
+	font-family: sans-serif;
+	padding: 10px;
+	width: 500px;
+	float: right;
+	font-size: 24px;}
+.mental{
+	color: lightgray;
+	text-align:  left;
+	font-family: sans-serif;
+	padding: 10px;
+	width: 500px;
+	font-size: 24px;
+	float:  right;}
+.unseen {
+	color: lightgray;
+	text-align:  left;
+	font-family: sans-serif;
+	padding: 10px;
+	width: 500px;
+	float:  left;
+	font-size: 24px;}
+.ig1{
+	width:  400px;
+	height: 400px;
+	padding:  10px;
+	border-radius: 50%;}
+.ig2{
+	width: 400px;
+	height:380px;
+	padding:  20px;
+	border-radius: 50%;
+}
+.slide3 {
+	text-align: center;
+	color:  lightgray;
+	font-family: serif;
+	font-size: 24px;}
+.punches{
+	color: lightgray;
+	text-align: center;
+	font-family: Ariel;
+	padding: 10px;
+	font-size: 24px;}
+.kicks{color: lightgray;
+	text-align: center;
+	font-family: Ariel;
+	padding: 10px;
+	font-size: 24px;}
+.tuls{color: lightgray;
+	text-align: center;
+	font-family: Ariel;
+	padding: 10px;
+	font-size: 24px;}
+.belts{color: lightgray;
+	text-align: center;
+	font-family: Ariel;
+	padding: 10px;
+	font-size: 24px;}
+.image1{
+	width:800px ;
+	height: 600px;
+	position:  relative;
+	left:  50px;}
+.image2{
+	width:1000px ;
+	height: 700px;}
+.image3{
+	width:800px ;
+	height: 600px;
+	position:  relative;
+	left:  50px;}
+.header {
+	background-color: #191970;
+	color: azure;
+	font-family: cursive;
+	font-size: 100px;
+	padding: 5px;
+	border: 10px;
+	margin: 10px;}
+.navbar{
+	background-color: #DEB887;
+	color: paleturquoise;
+	height: 70px;
+	font-size: 40px;
+	text-align: center;}
+.slide4{color:  lightgray;
+	margin: 0px;
+	padding: 10px;
+	text-align: left;
+	font-family: sans-serif;
+	font-size: 24px}
+.dress{color: lightgray;
+	text-align: left;
+	font-family: Ariel;
+	padding: 10px;
+	font-size: 24px;}
+.fight{color: lightgray;
+	text-align: left;
+	font-family: Ariel;
+	padding: 10px;
+	font-size: 24px;}
+.fouls{color: lightgray;
+	text-align: left;
+	font-family: Ariel;
+	padding: 10px;
+	font-size: 24px;}
+.i1{
+	width:  500px;
+	height: 500px;
+	padding: 10px;
+    border-radius: 20%;
+    position: relative;
+    left: 200px;}
+.i2{
+	width:  500px;
+	height: 500px;
+	padding:  10px;
+	border-radius: 30%;
+	float:  right;
+	position: relative;
+	right: 200px;}
+.i3{
+	width: 600px;
+	height:600px;
+	padding:  10px;
+	position: relative;
+	left:  500px;
+}
